@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-shadow: #000 1px 1px;
+    font-family: "Poppins", sans-serif;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("assets/bg.webp");
+    background-size: cover;
+    background-position: center;
+}
